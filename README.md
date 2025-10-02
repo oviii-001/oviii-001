@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Ismam Hasan Ovi 
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=e01515&interchange=true&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
 <div align="center">
 
 ### Android Developer | Jetpack Compose Enthusiast | Problem Solver  

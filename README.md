@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ismam Hasan Ovi                              [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+# 👋 Hi, I'm Ismam Hasan Ovi 
 
 <div align="center">
 

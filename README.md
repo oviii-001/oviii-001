@@ -30,6 +30,13 @@ I'm a passionate **Android Developer** specialized in building modern, scalable,
 ### Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
+### Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) 
+![Ktor](https://img.shields.io/badge/Ktor-0A84FF?logo=ktor&logoColor=white)  
+
+### Architecture
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blueviolet)  
+
 ### Other Skills  
 ![SaaS](https://img.shields.io/badge/SaaS-FF6B6B?style=for-the-badge&logo=cloud&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
@@ -46,24 +53,6 @@ I'm a passionate **Android Developer** specialized in building modern, scalable,
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oviii-001&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oviii-001&theme=github_dark)
 
 </div>  
-
----
-
-## 🏆 Competitive Programming  
-
-I sharpen my problem-solving skills through algorithmic challenges:  
-
-- 💡 Active on **[Codeforces](https://codeforces.com/profile/ovi_001)**  
-- ⚡ Focused on improving coding efficiency and analytical thinking  
-
----
-
-## 🔥 Current Focus  
-
-- 🚀 Building **modern Android apps** with Jetpack Compose  
-- 📱 Developing **cross-platform SaaS solutions**  
-- 🧩 Improving **problem-solving skills** through contests  
-- 🎨 Exploring **UI/UX patterns** for better app experiences  
 
 ---
 

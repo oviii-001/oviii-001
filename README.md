@@ -39,7 +39,11 @@ I'm a passionate **Android Developer** specialized in building modern, scalable,
 
 <div align="center">
 
-![Ovi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oviii-001&show_icons=true&theme=radical&hide_border=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oviii-001&layout=compact&theme=radical&hide_border=true)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oviii-001&theme=radical&hide_border=true)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oviii-001&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oviii-001&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oviii-001&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oviii-001&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oviii-001&theme=github_dark)
 
 </div>  
 

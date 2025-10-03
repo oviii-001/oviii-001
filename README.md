@@ -1,4 +1,4 @@
-# 👋 Hi there, It's Ismam Hasan Ovi 
+# 👋 Hi there, It's Ovi 
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&redirect=true">

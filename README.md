@@ -1,8 +1,8 @@
 # 👋 Hi there, It's Ovi 
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=e01515&interchange=true&bar_color=53b14f&bar_color_cover=false">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=cd1313&bar_color_cover=false">
   </a>
 </p>
 

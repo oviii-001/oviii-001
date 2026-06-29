@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b"/>
+      <stop offset="100%" stop-color="#0f0f14"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="10%" cy="55%" r="45%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="90%" cy="40%" r="40%">
+      <stop offset="0%" stop-color="#7F52FF" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#7F52FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#27272a" opacity="0.7"/>
+    </pattern>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f4f4f5"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="80%" stop-color="#10B981" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base Background -->
+  <rect width="900" height="260" fill="url(#bg)" rx="14"/>
+  <!-- Dot pattern -->
+  <rect width="900" height="260" fill="url(#dots)" rx="14"/>
+  <!-- Ambient Glows -->
+  <ellipse cx="90" cy="130" rx="320" ry="200" fill="url(#glow1)"/>
+  <ellipse cx="820" cy="100" rx="260" ry="160" fill="url(#glow2)"/>
+
+  <!-- Left accent bar -->
+  <rect x="56" y="68" width="3" height="130" rx="1.5" fill="#10B981" opacity="0.9"/>
+
+  <!-- Circuit / decoration (right side) -->
+  <g stroke="#10B981" stroke-width="0.8" fill="none" opacity="0.12">
+    <path d="M 680,40 H 730 V 80"/>
+    <path d="M 790,40 H 840 V 70 H 878"/>
+    <path d="M 680,210 H 720 V 230 H 878"/>
+    <path d="M 780,150 H 820 V 170"/>
+    <path d="M 22,38 H 22 V 18 H 42"/>
+    <path d="M 22,222 V 242 H 42"/>
+    <path d="M 858,18 H 878 V 38"/>
+    <path d="M 858,242 H 878 V 222"/>
+    <circle cx="730" cy="80" r="3.5" fill="#10B981" opacity="0.4"/>
+    <circle cx="840" cy="70" r="3.5" fill="#10B981" opacity="0.4"/>
+    <circle cx="820" cy="150" r="3" fill="#10B981" opacity="0.4"/>
+    <circle cx="720" cy="210" r="3" fill="#10B981" opacity="0.4"/>
+  </g>
+
+  <!-- Badge: Role -->
+  <rect x="76" y="55" width="170" height="24" rx="12" fill="#10B981" fill-opacity="0.1" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="161" y="71" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="10.5" font-weight="700" fill="#10B981" letter-spacing="2.5">ANDROID ENGINEER</text>
+
+  <!-- Main Name -->
+  <text x="76" y="140" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="900" fill="url(#nameGrad)" letter-spacing="-1.5">Ismam Hasan Ovi</text>
+
+  <!-- Accent line under name -->
+  <rect x="76" y="150" width="220" height="2" rx="1" fill="url(#lineGrad)"/>
+
+  <!-- Subtitle -->
+  <text x="76" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="300" fill="#71717a" letter-spacing="0.3">Kotlin · Jetpack Compose · Clean Architecture · KMP</text>
+
+  <!-- Tech pill row -->
+  <g transform="translate(76, 198)">
+    <rect x="0" y="0" width="60" height="21" rx="10.5" fill="#7F52FF" fill-opacity="0.12" stroke="#7F52FF" stroke-width="0.7" stroke-opacity="0.5"/>
+    <text x="30" y="14.5" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#A78BFA">Kotlin</text>
+
+    <rect x="68" y="0" width="126" height="21" rx="10.5" fill="#4285F4" fill-opacity="0.12" stroke="#4285F4" stroke-width="0.7" stroke-opacity="0.5"/>
+    <text x="131" y="14.5" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#93BBFC">Jetpack Compose</text>
+
+    <rect x="202" y="0" width="152" height="21" rx="10.5" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-width="0.7" stroke-opacity="0.5"/>
+    <text x="278" y="14.5" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#34D399">Kotlin Multiplatform</text>
+
+    <rect x="362" y="0" width="70" height="21" rx="10.5" fill="#3DDC84" fill-opacity="0.12" stroke="#3DDC84" stroke-width="0.7" stroke-opacity="0.5"/>
+    <text x="397" y="14.5" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10.5" fill="#6EE7B7">Android</text>
+  </g>
+
+  <!-- Right: location + portfolio -->
+  <text x="840" y="195" text-anchor="end" font-family="'Courier New', monospace" font-size="11" fill="#10B981" letter-spacing="0.5">ismamovi.dev</text>
+  <text x="840" y="213" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#52525b" letter-spacing="0.5">📍 Dhaka, Bangladesh</text>
+  <text x="840" y="230" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#3f3f46" letter-spacing="0.5">NeoTechDev</text>
+</svg>

@@ -20,12 +20,16 @@
 
 ---
 
-<!-- SPOTIFY + ABOUT (2 column) -->
-<table border="0" width="100%">
-<tr>
-<td width="45%" valign="top">
+<!-- SPOTIFY -->
+<p align="center">
+  <a href="https://open.spotify.com/user/3ecyjf8ovycg1eev17eag63sq">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=09090b&interchange=true&bar_color=10B981&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
-### 🧑‍💻 About Me
+---
+
+## 🧑‍💻 About Me
 
 I'm **Ovi** — an Android Developer passionate about building **intuitive mobile experiences** and robust applications that solve real-world problems.
 
@@ -38,18 +42,7 @@ I'm **Ovi** — an Android Developer passionate about building **intuitive mobil
 
 > *"Powered by Coffee & Code ☕"*
 
-</td>
-<td width="55%" align="center" valign="top">
 
-<a href="https://open.spotify.com/user/3ecyjf8ovycg1eev17eag63sq">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3ecyjf8ovycg1eev17eag63sq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=09090b&interchange=true&bar_color=10B981&bar_color_cover=false" alt="Spotify Now Playing" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 Featured Projects
 
@@ -197,34 +190,16 @@ Advanced location tracking & group management app with real-time map synchroniza
 
 ## 📊 GitHub Insights
 
-<table border="0" width="100%" align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=oviii-001&show_icons=true&count_private=true&bg_color=09090b&title_color=10B981&text_color=a1a1aa&icon_color=34D399&border_color=27272a&hide_border=false&rank_icon=github" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviii-001&layout=compact&bg_color=09090b&title_color=10B981&text_color=a1a1aa&border_color=27272a&hide_border=false&langs_count=8" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br/>
-      <img src="https://streak-stats.demolab.com/?user=oviii-001&background=09090b&ring=10B981&fire=10B981&currStreakNum=ffffff&sideNums=a1a1aa&sideLabels=a1a1aa&dates=52525b&border=27272a&stroke=27272a" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oviii-001&bg_color=09090b&color=10B981&line=10B981&point=ffffff&area=true&area_color=10B981&hide_border=false&border_color=27272a&radius=6" alt="Contribution Graph" width="100%"/>
-
-<br/>
-
-<!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oviii-001&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oviii-001&theme=github_dark" width="100%" alt="Profile Details"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oviii-001&theme=github_dark" width="49%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oviii-001&theme=github_dark" width="49%" alt="Repos Per Language"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oviii-001&bg_color=09090b&color=10B981&line=10B981&point=ffffff&area=true&area_color=10B981&hide_border=false&border_color=27272a&radius=6" alt="Contribution Graph" width="100%"/>
 
 ---
 

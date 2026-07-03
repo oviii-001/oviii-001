@@ -182,6 +182,9 @@ Advanced location tracking & group management app with real-time map synchroniza
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Antigravity-007ACC?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
     </td>
   </tr>
 </table>

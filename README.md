@@ -113,6 +113,18 @@ Advanced location tracking & group management app with real-time map synchroniza
 
 </td>
 </tr>
+<tr>
+  <td width="50%" valign="top">
+
+#### 💻 [CodeTrack](https://github.com/oviii-001/CodeTrack.git) &nbsp; <kbd>⚡ ACTIVE DEVELOPMENT</kbd>
+> *Lead Developer · 2026 · Compose Multiplatform (Android & Windows)*
+
+Cross-platform, offline-first dashboard engineered to track daily algorithmic problem-solving consistency and optimize technical interview preparation. Implements Clean Architecture with local Room caching and automated Firebase cloud synchronization.
+
+`Kotlin` `Compose Multiplatform` `Room KMP` `Firebase` `Koin` `Clean Architecture`
+
+</td>
+</tr>
 </table>
 
 ---

@@ -42,8 +42,6 @@ I'm **Ovi** — an Android Developer passionate about building **intuitive mobil
 
 > *"Powered by Coffee & Code ☕"*
 
-
-
 ## 🚀 Featured Projects
 
 <table border="0" width="100%">
@@ -124,6 +122,16 @@ Cross-platform, offline-first dashboard engineered to track daily algorithmic pr
 `Kotlin` `Compose Multiplatform` `Room KMP` `Firebase` `Koin` `Clean Architecture`
 
 </td>
+<td width="50%" valign="top">
+
+#### 🧚 [Pixie](https://github.com/oviii-001/Pixie) &nbsp; <kbd>✨ NEW</kbd> <kbd>⚡ ACTIVE DEVELOPMENT</kbd>
+> *Lead Developer · 2026 · Android (On-Device AI)*
+
+A privacy-first, proactive on-device AI companion for Pixel devices. Powered by Gemini Nano and local RAG, it securely ingests personal context to autonomously initiate meaningful conversations via background scheduling.
+
+`Kotlin` `Compose` `Gemini Nano` `AICore` `WorkManager` `Clean Arch`
+
+</td>
 </tr>
 </table>
 
@@ -139,6 +147,14 @@ Cross-platform, offline-first dashboard engineered to track daily algorithmic pr
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
       <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini_Nano-8E75B2?style=flat-square&logo=googlebard&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android_AICore-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Local_RAG-10B981?style=flat-square"/>
     </td>
   </tr>
   <tr>

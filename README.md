@@ -10,7 +10,7 @@
 
 <!-- BADGES ROW -->
 <p align="center">
-  <a href="https://ismamovi.dev"><img src="https://img.shields.io/badge/🌐_ismamovi.dev-09090b?style=flat-square&logo=safari&logoColor=10B981" alt="Portfolio"/></a>&nbsp;
+  <a href="https://ismam-hasan-ovi.web.app"><img src="https://img.shields.io/badge/🌐_ismamovi.dev-09090b?style=flat-square&logo=safari&logoColor=10B981" alt="Portfolio"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/ismamovi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://codeforces.com/profile/ovi_001"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>&nbsp;
   <img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-09090b?style=flat-square" alt="Location"/>&nbsp;
@@ -37,7 +37,7 @@ I'm **Ovi** — an Android Developer passionate about building **intuitive mobil
 - 🌱 &nbsp;Exploring **Kotlin Multiplatform** for cross-platform apps
 - ⚙️ &nbsp;Advocating **Clean Architecture** & scalable MVVM/MVI patterns
 - 💻 &nbsp;Active on [Codeforces](https://codeforces.com/profile/ovi_001) — competitive programming
-- 🌐 &nbsp;Portfolio: [ismamovi.dev](https://ismamovi.dev)
+- 🌐 &nbsp;Portfolio: [ismamovi.dev](https://ismam-hasan-ovi.web.app)
 - 📫 &nbsp;Reach me: [ismamhasanovi@gmail.com](mailto:ismamhasanovi@gmail.com)
 
 > *"Powered by Coffee & Code ☕"*
@@ -48,7 +48,7 @@ I'm **Ovi** — an Android Developer passionate about building **intuitive mobil
 <tr>
 <td width="50%" valign="top">
 
-#### 📱 [DIU Campus Schedule](https://ismamovi.dev/projects/diu-campus-schedule/)
+#### 📱 [DIU Campus Schedule](https://ismam-hasan-ovi.web.app/projects/diu-campus-schedule/)
 > *Lead Developer · 2025 · Android*
 
 A complete campus assistant for Daffodil International University. Helps students & faculty manage schedules, tasks, notes, and more — all in one place.
@@ -58,7 +58,7 @@ A complete campus assistant for Daffodil International University. Helps student
 </td>
 <td width="50%" valign="top">
 
-#### 🔇 [SilentSync](https://ismamovi.dev/projects/silentsync/)
+#### 🔇 [SilentSync](https://ismam-hasan-ovi.web.app/projects/silentsync/)
 > *Lead Developer · 2025 · Android*
 
 Smart silent mode scheduler that automates sound profiles based on time & geofenced locations. Never forget to silence your phone again.
@@ -70,7 +70,7 @@ Smart silent mode scheduler that automates sound profiles based on time & geofen
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 [DIU Campus Schedule Web](https://ismamovi.dev/projects/diu-campus-schedule-web/)
+#### 🌐 [DIU Campus Schedule Web](https://ismam-hasan-ovi.web.app/projects/diu-campus-schedule-web/)
 > *Lead Developer · 2025 · PWA*
 
 A Progressive Web App for DIU students & teachers — class routines, exam schedules, faculty info, and available room tracking. All in one place.
@@ -80,7 +80,7 @@ A Progressive Web App for DIU students & teachers — class routines, exam sched
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 [Brainforge](https://ismamovi.dev/projects/brainforge/)
+#### 🧠 [Brainforge](https://ismam-hasan-ovi.web.app/projects/brainforge/)
 > *Lead Developer · 2026 · Full-Stack*
 
 Collaborative Idea Marketplace — publish ideas, discover others', upvote, comment, request collaboration, form teams and build together.
@@ -92,7 +92,7 @@ Collaborative Idea Marketplace — publish ideas, discover others', upvote, comm
 <tr>
 <td width="50%" valign="top">
 
-#### 🐾 [Pet Adoption Platform](https://ismamovi.dev/projects/pet-adoption/)
+#### 🐾 [Pet Adoption Platform](https://ismam-hasan-ovi.web.app/projects/pet-adoption/)
 > *Lead Developer · 2024 · Desktop*
 
 Connects pet shelters with potential adopters through an intuitive JavaFX interface and robust data management system.
@@ -243,10 +243,10 @@ A privacy-first, proactive on-device AI companion for Pixel devices. Powered by 
   <a href="https://x.com/ovi_001"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)"/></a>&nbsp;
   <a href="https://open.spotify.com/user/3ecyjf8ovycg1eev17eag63sq"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/></a>&nbsp;
   <a href="https://codeforces.com/profile/ovi_001"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>&nbsp;
-  <a href="https://www.facebook.com/coder.OVI"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
+  <a href="https://www.facebook.com/oveee.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
   <a href="https://instagram.com/___o_v___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
   <a href="https://discord.gg/1081487731793858660"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
-  <a href="https://ismamovi.dev"><img src="https://img.shields.io/badge/Portfolio-09090b?style=flat-square&logo=safari&logoColor=10B981" alt="Portfolio"/></a>
+  <a href="https://ismam-hasan-ovi.web.app"><img src="https://img.shields.io/badge/Portfolio-09090b?style=flat-square&logo=safari&logoColor=10B981" alt="Portfolio"/></a>
 </p>
 
 ---

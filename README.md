@@ -257,7 +257,7 @@ A privacy-first, proactive on-device AI companion for Pixel devices. Powered by 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=oviii-001&color=10B981&style=flat-square&label=Profile+Views)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/ismamovi.dev-Visit_Portfolio-10B981?style=flat-square)](https://ismamovi.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=oviii-001&color=10B981&style=flat-square&label=Profile+Views)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/ismamovi.dev-Visit_Portfolio-10B981?style=flat-square)](https://ismam-hasan-ovi.web.app)
 
 <sub>© 2026 Ismam Hasan Ovi · Designed & Engineered</sub>
 
